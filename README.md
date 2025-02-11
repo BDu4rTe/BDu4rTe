@@ -29,7 +29,7 @@
 ## :open_book: Leituras
 
 - Leitura atual: **O mítico homem-mês** Por *Frederick P. Brooks Jr*
-- Ultima leitura: **Entendendo algoritimos** Por *Aditya Y. Bhargava*
+- Última leitura: **Entendendo algoritimos** Por *Aditya Y. Bhargava*
 
 <details>
 <summary>Histórico de leitura</summary>
