@@ -8,8 +8,6 @@
 ## :toolbox: Tecnologias
 
 ![Golang](https://img.shields.io/badge/Golang-0d1117?style=for-the-badge&logo=go)
-![Golang Dark](https://img.shields.io/badge/Golang-0d1117?style=for-the-badge&logo=go) 
-![Golang Light](https://img.shields.io/badge/Golang-ffffff?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/ANSI_C-0d1117?style=for-the-badge&logo=c&logoColor=00599C)
