@@ -21,6 +21,10 @@
 ![Postgres](https://img.shields.io/badge/Postgresql-0d1117?style=for-the-badge&logo=postgresql)
 ![SQLite3](https://img.shields.io/badge/SQLite3-0d1117?style=for-the-badge&logo=sqlite&logoColor=76c4eb)
 
+![Gin](https://img.shields.io/badge/Gin-0d1117?style=for-the-badge&logo=gin)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask)
+![Spring](https://img.shields.io/badge/Spring-0d1117?style=for-the-badge&logo=spring)
+
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Javascript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -28,8 +32,8 @@
 
 ## :open_book: Leituras
 
-- Leitura atual: **O mítico homem-mês** Por *Frederick P. Brooks Jr*
-- Última leitura: **Entendendo algoritimos** Por *Aditya Y. Bhargava*
+- Leitura atual: **Domain-Driven Design** Por *Eric Evans*
+- Última leitura: **O mítico homem-mês** Por *Frederick P. Brooks Jr*
 
 <details>
 <summary>Histórico de leitura</summary>
