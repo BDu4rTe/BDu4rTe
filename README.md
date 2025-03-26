@@ -32,12 +32,13 @@
 
 ## :open_book: Leituras
 
-- Leitura atual: **Domain-Driven Design** Por *Eric Evans*
-- Última leitura: **O mítico homem-mês** Por *Frederick P. Brooks Jr*
+- Leitura atual: **A Linguagem de Programação Go** Por *Alan A. A. Donavan e Brian W. Kernighan*
+- Última leitura: **Domain-Driven Design** Por *Eric Evans*
 
 <details>
 <summary>Histórico de leitura</summary>
-  
+
+- **Domain-Driven Design** Por *Eric Evans*
 - **O mítico homem-mês** Por *Frederick P. Brooks Jr*
 - **Entendendo algoritimos** Por *Aditya Y. Bhargava*
 - **Código Limpo** Por *Robert C. Martin*
