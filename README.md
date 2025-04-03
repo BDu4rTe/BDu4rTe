@@ -1,7 +1,7 @@
 ## :vulcan_salute: Opa eai?
 
 - :telescope: **Desenvolvedor:** Backend
-- :seedling: **Estudando:** Shell GNU/Linux
+- :seedling: **Estudando:** Autenticação com JWT *(RFC's 7519, 7521, 7523 e 8725)*
 - :star: **Favorito:** Sistemas GNU/Linux
 <!-- - :penguin: *I use Arch, btw*) -->
 
