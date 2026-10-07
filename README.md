@@ -1,9 +1,8 @@
 ## :vulcan_salute: Opa eai?
 
-- :telescope: **Desenvolvedor:** Backend
-- :seedling: **Estudando:** Autenticação com JWT *(RFC's 7519, 7521, 7523 e 8725)*
+- :telescope: **Atuação:** Desenvolvimento Backend
+- :seedling: Inteligência Artificial *(LLMs, Agentes, Tools, Skills, SDD e RAG)*
 - :star: **Favorito:** Sistemas GNU/Linux
-<!-- - :penguin: *I use Arch, btw*) -->
 
 ## :toolbox: Tecnologias
 
@@ -32,15 +31,16 @@
 
 ## :open_book: Leituras
 
-- Leitura atual: **A Linguagem de Programação Go** Por *Alan A. A. Donavan e Brian W. Kernighan*
-- Última leitura: **Domain-Driven Design** Por *Eric Evans*
+- Leitura atual: **O Programador Pragmático** por *Andrew Hunt e David Thomas*
+- Última leitura: **A Linguagem de Programação Go** Por *Alan A. A. Donavan e Brian W. Kernighan*
 
 <details>
 <summary>Histórico de leitura</summary>
 
-- **Domain-Driven Design** Por *Eric Evans*
-- **O mítico homem-mês** Por *Frederick P. Brooks Jr*
-- **Entendendo algoritimos** Por *Aditya Y. Bhargava*
-- **Código Limpo** Por *Robert C. Martin*
+- **A Linguagem de Programação Go** Por *Alan A. A. Donavan e Brian W. Kernighan* [leitura: 40%, entendimento: 90%]
+- **Domain-Driven Design** Por *Eric Evans* [leitura: 100%, entendimento: 85%]
+- **O mítico homem-mês** Por *Frederick P. Brooks Jr* [leitura: 100%, entendimento: 55%]
+- **Entendendo algoritimos** Por *Aditya Y. Bhargava* [leitura: 100%, entendimento: 90%]
+- **Código Limpo** Por *Robert C. Martin* [leitura: 70%, entendimento: 80%]
   
 </details>
