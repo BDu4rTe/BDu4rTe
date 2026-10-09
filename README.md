@@ -1,7 +1,7 @@
 ## :vulcan_salute: Opa eai?
 
 - :telescope: **Atuação:** Desenvolvimento Backend
-- :seedling: Inteligência Artificial *(LLMs, Agentes, Tools, Skills, MCP, SDD e RAG)*
+- :seedling: **Estudando:** Inteligência Artificial *(LLMs, Agentes, Tools, Skills, MCP, SDD e RAG)*
 - :star: **Favorito:** Sistemas GNU/Linux
 
 ## :toolbox: Tecnologias
