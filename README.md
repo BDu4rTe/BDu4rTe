@@ -22,11 +22,13 @@
 
 ![Gin](https://img.shields.io/badge/Gin-0d1117?style=for-the-badge&logo=gin)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117.svg?style=for-the-badge&logo=fastapi&logoColor=009485)
 ![Spring](https://img.shields.io/badge/Spring-0d1117?style=for-the-badge&logo=spring)
 
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css&logoColor=1572B6)
 ![Javascript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MkDocs](https://img.shields.io/badge/MkDocs-0d1117?style=for-the-badge&logo=materialformkdocs&logoColor=fff)
 
 
 ## :open_book: Leituras
