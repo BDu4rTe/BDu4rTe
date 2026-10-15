@@ -33,7 +33,7 @@
 
 ## :open_book: Leituras
 
-- Leitura atual: **O Programador Pragmático** por *Andrew Hunt e David Thomas*
+- Leitura atual: **Competente o suficiente** por *Fabio Akita*
 - Última leitura: **A Linguagem de Programação Go** Por *Alan A. A. Donavan e Brian W. Kernighan*
 
 <details>
